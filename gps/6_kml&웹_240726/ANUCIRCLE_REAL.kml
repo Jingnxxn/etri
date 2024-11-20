@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>제목 없음</name>
+	<StyleMap id="__managed_style_0A921A62C332235005D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16495FC10D32235005D1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2BC6666E1832235005D1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2BC6666E1832235005D1">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2AEC932BE53223512835">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EB1D6305B3223512835">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16495FC10D32235005D1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D5A658FDE3223512835">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EB1D6305B3223512835</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2AEC932BE53223512835</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0CD4699FAB32235005D1">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930704737699</longitude>
+			<latitude>36.54128889247189</latitude>
+			<altitude>101.2825902459107</altitude>
+			<heading>359.9511412733701</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>69.09056368912388</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.793051682976,36.54133450577263,101.3958824655393</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B7D67344B3223502921">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930704737699</longitude>
+			<latitude>36.54128889247189</latitude>
+			<altitude>101.2825902459107</altitude>
+			<heading>359.9511412733701</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>69.09056368912388</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930524381122,36.54132938652555,101.3958925675144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09913BCBF532235045BC">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930704737699</longitude>
+			<latitude>36.54128889247189</latitude>
+			<altitude>101.2825902459107</altitude>
+			<heading>359.9511412733701</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>69.09056368912388</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930539422897,36.54132487009863,101.3958839129273</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A55107C0532235058A1">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930548939227,36.54131932959919,101.3958847612496</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08ED0CF4983223507175">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930570926852,36.54131605560499,101.3958903397831</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB67E9254322350895E">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.793059604723,36.54131303380369,101.3958865343707</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="005D3A0CB9322350FBFC">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930614895555,36.54131001154885,101.3958873444547</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0887E27B6032235109DC">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930633749633,36.54130648542503,101.3958882522588</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060FF1B9303223511727">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7930668283968,36.54130296032385,101.3958895240341</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA530C36A322351349A">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930693407552,36.54129968656888,101.3958894702173</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0881A7914032235141B3">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7930718522672,36.54129716868574,101.395894074384</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E2358921E322351660F">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930994519144</longitude>
+			<latitude>36.54129504592527</latitude>
+			<altitude>101.2825881578896</altitude>
+			<heading>359.9511411188082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.80293373532004</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930746779329,36.54129414709253,101.3958892790262</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0798E72697322351AF2B">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930790850558,36.54129069333445,101.3958889858664</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FD100A101322351BBDF">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930825391915,36.54128713155171,101.3958913127338</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02BDC7AF7B322351C94B">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930853341593,36.54128541740028,101.3958910861368</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D81E85348322351D538">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930884582906,36.54128317545314,101.3958885567484</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FF9C37E1322351E04B">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930910888304,36.5412815931883,101.3958883683897</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DBA3AAF9C322351F5FE">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7930948704552,36.54127908767398,101.3958905309743</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B4EEA630A322352038B">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7930971722316,36.54127763718461,101.3958880497377</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BBCE344CA3223521ADF">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931035831156,36.54127473744933,101.3958875243161</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EE05370E432235267CF">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410787281</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930994735812,36.54127658271525,101.3958854948572</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06A6366F8C3223529C96">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410729992</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931062132218,36.54127355120952,101.3958896883169</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="041617FE50322352A95C">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410729992</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931086790249,36.54127236485323,101.3958871688421</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08804642F0322352B549">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410729992</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931131161739,36.54127144385255,101.3958890028611</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AE0654128322352D373">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410615488</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931165679319,36.54127012615437,101.3958887451071</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="025152D881322352E08C">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410615488</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931201832907,36.54126946859889,101.3958859707108</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B7DF0F53322353752F">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410558198</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931234703323,36.54126854681476,101.3958856832159</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F415308753223538F82">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410558198</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.793127086393,36.54126722923795,101.3958854537865</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07D245F1C1322353A9B3">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410558198</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.793132016732,36.54126604456883,101.3958850317497</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="022C435D7C322353C6A1">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410558198</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931382605166,36.54126578482623,101.3958842556551</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0705380B553223542006">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930945328119</longitude>
+			<latitude>36.54128760179335</latitude>
+			<altitude>101.2825880433031</altitude>
+			<heading>359.9511410500909</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30.28374122987771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931445045896,36.54126526107696,101.3958835900266</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01988963AB3223547561">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930707260058</longitude>
+			<latitude>36.54127698053092</latitude>
+			<altitude>101.2825925447143</altitude>
+			<heading>359.9511392978042</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43035819375928</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931512689305,36.54126515937231,101.3958828167645</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="092F7CE6AF322360FF6A">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931577979347,36.54126560102186,101.3958772778854</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB3E31C2D3223611BB2">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931650530746,36.54126546028534,101.3958789391243</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FBF1F5C553223612693">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931708559695,36.54126648430405,101.3958828861598</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C2A44DD73223614748">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931786536917,36.54126780113855,101.3958772070739</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01E8CE9C053223615E38">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931851816473,36.54126926281829,101.3958740262193</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA9F3E23C3223617D6E">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.793191346837,36.54127072425978,101.3958756463874</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB10C6172322361881E">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931985987393,36.54127364364798,101.3958745813818</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B7020C623223619504">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931298525593</longitude>
+			<latitude>36.54127847823924</latitude>
+			<altitude>101.2825817481177</altitude>
+			<heading>359.9511380954455</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.43037267975888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932049443753,36.5412759795451,101.3958761250735</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="006577F73E322361A497">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931669394687</longitude>
+			<latitude>36.54128291377749</latitude>
+			<altitude>101.2825765096747</altitude>
+			<heading>359.9511377031592</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758268589631</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932110202395,36.54127983851831,101.3958750657328</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D16172E23322361AFCC">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931669394687</longitude>
+			<latitude>36.54128291377749</latitude>
+			<altitude>101.2825765096747</altitude>
+			<heading>359.9511377031592</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758268589631</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932168482152,36.54128343830829,101.3958741395177</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CBDD9CD56322361BAAD">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931669394687</longitude>
+			<latitude>36.54128291377749</latitude>
+			<altitude>101.2825765096747</altitude>
+			<heading>359.9511377031592</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758268589631</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932229469721,36.54128747412691,101.3958731934755</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5A4C4C5D322361D2FD">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931669394687</longitude>
+			<latitude>36.54128291377749</latitude>
+			<altitude>101.2825765096747</altitude>
+			<heading>359.9511377031592</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758268589631</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932275536641,36.54129172685794,101.3958723111636</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B98E7D581322361F5EA">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931669394687</longitude>
+			<latitude>36.54128291377749</latitude>
+			<altitude>101.2825765096747</altitude>
+			<heading>359.9511377031592</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758268589631</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932314830312,36.54129521636784,101.3958739922297</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07586EB3983223620792">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659926</longitude>
+			<latitude>36.5413021297745</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511368944665</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932356092766,36.54129915790897,101.3958709175924</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB25184FB322362193A">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659926</longitude>
+			<latitude>36.5413021297745</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511368944665</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7932388597205,36.54130340970439,101.3958702108932</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1A47C0A53223622E67">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659926</longitude>
+			<latitude>36.5413021297745</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511368944665</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932444119526,36.54131125886866,101.3958643066265</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B565F2FE3223624672">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659926</longitude>
+			<latitude>36.5413021297745</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511368944665</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932472556432,36.54131540143079,101.395866106656</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03273A80C7322362600E">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659926</longitude>
+			<latitude>36.5413021297745</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511368944665</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932488779178,36.54132030589837,101.3958678429551</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00BB3F0F2C3223628138">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659403</longitude>
+			<latitude>36.54130212979563</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511366024292</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932506355505,36.54132542840939,101.3958648844487</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E4C74E133223629AC2">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659403</longitude>
+			<latitude>36.54130212979563</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511366024292</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932525277812,36.54133153165119,101.3958666009206</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04100BA253322362BC51">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931996659403</longitude>
+			<latitude>36.54130212979563</latitude>
+			<altitude>101.2825706700061</altitude>
+			<heading>359.9511366024292</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932530626354,36.54133872359959,101.3958659140486</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="008920BFA9322362DA7C">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7932015388434</longitude>
+			<latitude>36.54132642995965</latitude>
+			<altitude>101.2825696090198</altitude>
+			<heading>359.9511360700045</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932533273769,36.5413448257849,101.3958654098704</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00656033EE322362F1F1">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7932015388434</longitude>
+			<latitude>36.54132642995965</latitude>
+			<altitude>101.2825696090198</altitude>
+			<heading>359.9511360700045</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932529134692,36.54135147227598,101.3958672920413</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00ADB7A2003223630819">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7932015388434</longitude>
+			<latitude>36.54132642995965</latitude>
+			<altitude>101.2825696090198</altitude>
+			<heading>359.9511360700045</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932524993255,36.54135833668376,101.3958668884155</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B468F8EFC3223635455">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931917497831</longitude>
+			<latitude>36.54134919660874</latitude>
+			<altitude>101.2825657314686</altitude>
+			<heading>359.9511357035564</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99759137749607</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932512717775,36.54136487364599,101.395864217404</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="099646F1BC3223637AC6">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931917498094</longitude>
+			<latitude>36.54134919660874</latitude>
+			<altitude>101.2825657314686</altitude>
+			<heading>359.9511355260543</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932493664706,36.54137108325771,101.395863996472</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="076F4DCDA83223639450">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931917498094</longitude>
+			<latitude>36.54134919660874</latitude>
+			<altitude>101.2825657314686</altitude>
+			<heading>359.9511355260543</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932463754711,36.54137794590105,101.3958638364379</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09FF9757B9322363BC47">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931859046011</longitude>
+			<latitude>36.54136183236188</latitude>
+			<altitude>101.282567761489</altitude>
+			<heading>359.9511350051872</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932428423585,36.54138448128889,101.3958637797886</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06004C22AB322363CF5F">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931859046011</longitude>
+			<latitude>36.54136183236188</latitude>
+			<altitude>101.282567761489</altitude>
+			<heading>359.9511350051872</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932389038402,36.54138959985881,101.3958661675539</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="045A2A5B68322363E79C">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931841198694</longitude>
+			<latitude>36.54138220732943</latitude>
+			<altitude>101.2825673851925</altitude>
+			<heading>359.9511346272088</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932345582259,36.54139493613396,101.3958615534737</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06CF146F8E322363F8BF">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931841198694</longitude>
+			<latitude>36.54138220732943</latitude>
+			<altitude>101.2825673851925</altitude>
+			<heading>359.9511346272088</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932292631538,36.54140038066985,101.3958664762923</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="062A94632D32236411E6">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931572461021</longitude>
+			<latitude>36.54140136648546</latitude>
+			<altitude>101.282567685098</altitude>
+			<heading>359.9511342664923</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932228836463,36.54140527965281,101.3958644156763</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066219BD123223642424">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931572461021</longitude>
+			<latitude>36.54140136648546</latitude>
+			<altitude>101.282567685098</altitude>
+			<heading>359.9511342664923</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932166401116,36.54140985184494,101.3958647909775</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F97CA2C12322364316F">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931572461021</longitude>
+			<latitude>36.54140136648546</latitude>
+			<altitude>101.282567685098</altitude>
+			<heading>359.9511342664923</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932101255724,36.54141420590866,101.395865254085</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A62D7A38B3223643F60">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931572461021</longitude>
+			<latitude>36.54140136648546</latitude>
+			<altitude>101.282567685098</altitude>
+			<heading>359.9511342664923</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7932032054312,36.54141736111306,101.3958633903251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0697551CBF3223644F99">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931515368452</longitude>
+			<latitude>36.54141367545704</latitude>
+			<altitude>101.2825688564269</altitude>
+			<heading>359.951133797027</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.793195200199,36.54142062455647,101.3958640347102</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DF067C4C93223646110">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931515368452</longitude>
+			<latitude>36.54141367545704</latitude>
+			<altitude>101.2825688564269</altitude>
+			<heading>359.951133797027</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931873312679,36.54142323429159,101.3958647229984</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C52CF1FB832236471BF">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931347056773</longitude>
+			<latitude>36.54142673954086</latitude>
+			<altitude>101.2825718370911</altitude>
+			<heading>359.951133338903</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931786493116,36.54142518968396,101.3958655132553</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F2C394913223647E41">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931347056773</longitude>
+			<latitude>36.54142673954086</latitude>
+			<altitude>101.2825718370911</altitude>
+			<heading>359.951133338903</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931715953842,36.5414266013838,101.395866217122</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04AA25B18A322364889D">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931347056773</longitude>
+			<latitude>36.54142673954086</latitude>
+			<altitude>101.2825718370911</altitude>
+			<heading>359.951133338903</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931631859261,36.54142735836017,101.3958670640281</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D388EB851322364954C">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931347056773</longitude>
+			<latitude>36.54142673954086</latitude>
+			<altitude>101.2825718370911</altitude>
+			<heading>359.951133338903</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.9975826858963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931550478389,36.54142800656796,101.3958703241917</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B7C1E9E18322364C38F">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931012048661</longitude>
+			<latitude>36.54142519200602</latitude>
+			<altitude>101.2825745546306</altitude>
+			<heading>359.9511329323946</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931458261818,36.54142811040526,101.3958713891973</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DA66BBCE322364D249">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931012048661</longitude>
+			<latitude>36.54142519200602</latitude>
+			<altitude>101.2825745546306</altitude>
+			<heading>359.9511329323946</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931366037002,36.54142734126483,101.3958772113226</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7837FD8C322364DE56">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7931012048661</longitude>
+			<latitude>36.54142519200602</latitude>
+			<altitude>101.2825745546306</altitude>
+			<heading>359.9511329323946</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5A658FDE3223512835</styleUrl>
+		<Point>
+			<coordinates>128.7931283313848,36.54142591894506,101.395873509295</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03BA8F55153223650731">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.793070025626</longitude>
+			<latitude>36.54140904254587</latitude>
+			<altitude>101.2825796431209</altitude>
+			<heading>359.9511324629273</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000474502941</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931208730252,36.54142438823778,101.3958768473512</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016853FFAD322365119E">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.793070025626</longitude>
+			<latitude>36.54140904254587</latitude>
+			<altitude>101.2825796431209</altitude>
+			<heading>359.9511324629273</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000474502941</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931130087774,36.54142187643953,101.3958778911134</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06B9F91AD03223651CF5">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.793070025626</longitude>
+			<latitude>36.54140904254587</latitude>
+			<altitude>101.2825796431209</altitude>
+			<heading>359.9511324629273</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000474502941</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7931058230429,36.54141903821026,101.39587888814</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F388296B03223652F66">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930396638132</longitude>
+			<latitude>36.54138951540445</latitude>
+			<altitude>101.282579429509</altitude>
+			<heading>359.9511320735576</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930976892955,36.54141489161282,101.3958776970898</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02576AE8933223653C8E">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930396638132</longitude>
+			<latitude>36.54138951540445</latitude>
+			<altitude>101.282579429509</altitude>
+			<heading>359.9511320735576</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930903687366,36.54141129046269,101.3958812164236</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="000B25939B3223654965">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930396638132</longitude>
+			<latitude>36.54138951540445</latitude>
+			<altitude>101.282579429509</altitude>
+			<heading>359.9511320735576</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930831848616,36.54140670864489,101.3958800367032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D84168A43223655435">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930396638132</longitude>
+			<latitude>36.54138951540445</latitude>
+			<altitude>101.282579429509</altitude>
+			<heading>359.9511320735576</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930765442349,36.54140147333091,101.3958788286583</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052D37F44F3223655EC3">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930396638132</longitude>
+			<latitude>36.54138951540445</latitude>
+			<altitude>101.282579429509</altitude>
+			<heading>359.9511320735576</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930712596138,36.54139656588675,101.3958821667145</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09D564E90B3223656B68">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930396638132</longitude>
+			<latitude>36.54138951540445</latitude>
+			<altitude>101.282579429509</altitude>
+			<heading>359.9511320735576</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0000047450294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930667892555,36.54139122309442,101.3958809445073</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0882C8E6633223657EA0">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930629971814,36.5413857718012,101.3958824471283</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095C8D7FDB3223658C1D">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930596116015,36.54138075666825,101.3958841069509</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E765EDD3D32236597E8">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930575818021,36.54137628735004,101.3958813736252</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C97D930B1322365A3E6">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930551451957,36.54137170877813,101.3958833266076</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06030BAF3F322365AF3C">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930537934437,36.54136734889278,101.3958831750709</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0889D7E6CE322365BB6B">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930523059674,36.54136309789197,101.3958806711747</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E326B03EB322365C7DD">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930517684056,36.54135841164823,101.3958831311678</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0709DDB75B322365D334">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930510942562,36.54135459709259,101.3958808382899</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F93BCF8C322365DDA0">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930508272802,36.5413505648733,101.3958810266486</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07AA399FB3322365EC38">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930508312038,36.54134685976116,101.3958812773215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A27F8F999322365F90F">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930149979787</longitude>
+			<latitude>36.54137064602651</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511315525408</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00001053942924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930505633908,36.54134359036652,101.3958861873941</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007AF8E33232236622C2">
+		<name>제목 없는 위치표시</name>
+		<LookAt>
+			<longitude>128.7930150043207</longitude>
+			<latitude>36.54137064355402</latitude>
+			<altitude>101.2825754911279</altitude>
+			<heading>359.9511313063055</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99758558309622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A921A62C332235005D1</styleUrl>
+		<Point>
+			<coordinates>128.7930509758271,36.54134108463041,101.3958817446777</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
